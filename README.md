@@ -6,6 +6,9 @@ The implementation is backed by a trie and the word, meaning information is fetc
 handling.
 
 • Insert, search and delete words in the dictionary.
+
 • Printing the words in an alphabetical manner.
+
 • Prefix searching i.e. all words with the entered prefix will be displayed.
+
 • Nearest neighbor search i.e. shows suggested words if the word you are looking for is not found.
